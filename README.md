@@ -118,17 +118,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andifry7/andifry7/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/andifry7/andifry7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Andifry">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Andifry&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
