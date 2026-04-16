@@ -1,4 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Andifry</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Backend+Enthusiast;Frontend+Learner;Problem+Solver;Lifelong+Learner" />
+</p>
+
+<p align="center">
+  🎓 Informatics Student at Universitas Internasional Semen Indonesia (UISI) <br>
+  💻 Passionate about Technology & Digital Solutions
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Informatics (Computer Science) student at UISI
+- 💡 Interested in **Frontend & Backend Development (Full-Stack)**
+- 🔍 Passionate about building user-friendly and efficient systems
+- 📈 Currently improving skills in web development and system design
+
+---
+
+### 🧠 Currently Learning
+
+- 🗄️ SQL & Database Design
+- ⚙️ Backend Development
+- 🎨 Frontend Development (UI/UX basics)
+- 📊 Data Structures & Algorithms
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andifry7&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andifry7&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🧩 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andifry7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andifry7&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:andifry.github7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail" />
+  </a>
+  <a href="https://instagram.com/andifry7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-andi-alfiansyah-286894282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy turning simple ideas into real digital solutions 🚀
+
+---
+
+<p align="center">
+  ⭐️ From <b>Andifry</b> — keep learning, keep building!
+</p>
 
 <!--
 **andifry7/andifry7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
