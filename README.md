@@ -108,6 +108,8 @@
   ⭐️ From <b>Andifry</b> — keep learning, keep building!
 </p>
 
+---
+
 ###
 
 <picture>
