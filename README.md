@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andifry7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andifry7&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andifry7&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
