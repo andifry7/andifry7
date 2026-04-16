@@ -120,10 +120,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andifry7/andifry7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **andifry7/andifry7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
