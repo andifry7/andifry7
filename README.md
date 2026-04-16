@@ -118,6 +118,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andifry7/andifry7/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <img src="https://raw.githubusercontent.com/andifry7/andifry7/output/snake.svg" alt="Snake animation" />
 
 ###
