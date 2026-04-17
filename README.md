@@ -5,7 +5,7 @@
 <!-- ![Andifry](img/github-header-banner.png) -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/17/5a/98/175a9849602a75a572500f5bb49672ec.gif" width="800" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWc2aXB4eWlrNTNpYmdnM3JjN3Z5NTVkaWhwcHhvZmtxbHY5MTVieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Andifry</h1>
