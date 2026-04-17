@@ -1,9 +1,14 @@
-<div>
+<!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-<!-- <h1 align="center">Hi 👋, I'm Andifry</h1> -->
+</div> -->
 
-![Andifry](img/github-header-banner.png)
+<!-- ![Andifry](img/github-header-banner.png) -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/17/5a/98/175a9849602a75a572500f5bb49672ec.gif" width="800" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Andifry</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Backend+Enthusiast;Frontend+Learner;Problem+Solver;Lifelong+Learner" />
