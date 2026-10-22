@@ -66,9 +66,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=andifry7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Andifry's GitHub Stats"
+  src="https://github-stats-extended.vercel.app/api?username=andifry7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="Andifry's GitHub Stats"
   />
   <img
     src="https://streak-stats.demolab.com?user=andifry7&theme=tokyonight&hide_border=true"
